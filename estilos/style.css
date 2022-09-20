@@ -25,6 +25,14 @@ main {
     width: 100vw;
 }
 
+ h1 {
+    color: #BD461C;
+}
+
+p {
+    color: #1A303B;
+}
+
 section#login {
     position: absolute;
     top: 50%;
