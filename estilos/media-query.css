@@ -22,6 +22,8 @@ Grandes telas: acima de 1200px
         float: left;
         width: 30%;
         height: 100%;
+        background-position: center center ;
+        background-repeat: no-repeat;
     }
 
     section#login > div#formulario {
@@ -34,7 +36,7 @@ Grandes telas: acima de 1200px
     body {
         background-image: linear-gradient(to top, #7d868b, #1a303b );
     }
-    
+
     section#login {
         width: 950px;
     }
